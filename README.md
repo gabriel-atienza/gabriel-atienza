@@ -2,21 +2,31 @@
 
 I'm Gabriel, a first-year IT student at Holy Angel University.
 
-Aspiring Network Engineer learning Python, Linux, and networking fundamentals while building projects in public.
+Aspiring Network Engineer learning Python, Linux, and networking fundamentals.
 
-## 🌱 Currently Learning
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🌱 Learning
 
 - Python
 - Linux
-- Computer Networking
-- Git & GitHub
+- Networking
+- Git
 
-## 🎯 Current Goals
+</td>
 
+<td valign="top" width="50%">
+
+### 🎯 Goals
+
+- Become a Network Engineer
+- Build automation tools
 - Complete CS50P
-- Build my AI Prompt Launcher
-- Learn network automation with Python
 
-## 📫 Contact
+</td>
+</tr>
+</table>
 
 - Email: gabrielatienza.dev@gmail.com
